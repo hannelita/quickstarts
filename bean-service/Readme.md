@@ -8,6 +8,7 @@ Target Product: FSW
 Source: <https://github.com/jboss-switchyard/quickstarts>
 
 
+
 What is it?
 -----------
 This quickstart demonstrates the usage of the bean component.   
